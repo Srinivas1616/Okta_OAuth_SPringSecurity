@@ -15,7 +15,7 @@ public class SpringBootOktaSsoApplication {
 	
 	@GetMapping("/")
 	public String welcome2User(Principal principal) {
-		return "Hi "+principal.getName()+" Welcome to javatechie";
+		return "Hi "+principal.getName()+" Welcome to authenticated application";
 	}
 
 	public static void main(String[] args) {

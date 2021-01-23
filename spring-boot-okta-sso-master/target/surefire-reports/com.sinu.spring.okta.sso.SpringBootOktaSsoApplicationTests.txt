@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sinu.spring.okta.sso.SpringBootOktaSsoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 20.538 s - in com.sinu.spring.okta.sso.SpringBootOktaSsoApplicationTests
