@@ -1,4 +1,4 @@
-package com.javatechie.spring.okta.sso;
+package com.sinu.spring.okta.sso;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

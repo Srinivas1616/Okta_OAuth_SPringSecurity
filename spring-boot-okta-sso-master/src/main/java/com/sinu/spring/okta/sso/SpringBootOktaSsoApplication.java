@@ -1,4 +1,4 @@
-package com.javatechie.spring.okta.sso;
+package com.sinu.spring.okta.sso;
 
 import java.security.Principal;
 
